@@ -1,2 +1,2 @@
 # one-page-website-project
-for HTML &amp; CSS practice
+for HTML & CSS practice
